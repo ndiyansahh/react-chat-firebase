@@ -1,3 +1,6 @@
+🛠 This project was originally hosted under [@ndiyansah](https://github.com/ndiyansah).  
+> Due to account access issues, it has been migrated here for continued maintenance and visibility.
+
 Hi! Handi here!
 
 This is example chat app using React and Firebase.
@@ -21,3 +24,11 @@ Thank you.
 
 
 handi sulyansah // handi.sulyansah@gmail.com
+
+---
+
+### 🧠 Migration Note
+
+This project was previously maintained under my original GitHub account: [@ndiyansah](https://github.com/ndiyansah).  
+Due to account access loss, I’ve re-uploaded and linked the same commit history here.  
+If you came here from a reference to the old repo — yes, this is still me 🙂
